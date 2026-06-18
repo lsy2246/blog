@@ -20,7 +20,7 @@ export const SITE_META = {
 export const ASSET_RELAY_URL = "https://proxy.u.cd/api/file/{url}?_headers={headers}";
 
 export const SOURCE_REPOSITORY_CONFIG = {
-  url: "https://github.com/lsy2246/newechoes",
+  url: "https://github.com/lsy2246/blog",
   provider: "github",
 } as const;
 // 必选：站点导航结构。
